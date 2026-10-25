@@ -149,27 +149,34 @@ def render_slide(s, bg):
 
 SANDERS_CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#fff}
-body{font-family:'DM Sans',sans-serif;color:#0f1419;-webkit-font-smoothing:antialiased}
-.wrap{width:1080px;height:1350px;padding:0 96px;display:flex;flex-direction:column;justify-content:center}
-.head{display:flex;align-items:center;gap:30px;margin-bottom:54px}
-.av{width:132px;height:132px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-family:'Barlow Condensed';font-weight:800;font-size:60px;letter-spacing:1px}
-.name{font-weight:700;font-size:46px;line-height:1.1}
-.handle{font-size:38px;color:#536471;margin-top:6px}
-.txt{font-weight:500;line-height:1.28;letter-spacing:-.3px}
-.txt p+p{margin-top:.62em}
-.meta{margin-top:54px;padding-top:30px;border-top:2px solid #eff3f4;font-size:30px;color:#536471;display:flex;justify-content:space-between}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#000}
+body{font-family:'DM Sans',sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+.wrap{width:1080px;height:1350px;padding:0 64px;display:flex;flex-direction:column;justify-content:center}
+.card{border:3px solid #cfd3d6;border-radius:44px;padding:52px 56px 58px}
+.head{display:flex;align-items:center;gap:28px;margin-bottom:46px}
+.av{width:124px;height:124px;border-radius:50%;flex:none;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;font-family:'Barlow Condensed';font-weight:800;font-size:56px}
+.name{font-weight:700;font-size:44px;line-height:1.1}
+.handle{font-size:36px;color:#a8adb2;margin-top:6px}
+.txt{font-weight:400;line-height:1.3;letter-spacing:-.2px}
+.txt p+p{margin-top:.75em}
+.meta{margin-top:40px;font-size:28px;color:#8a9096;display:flex;justify-content:space-between;padding:0 8px}
 """
+
+AVATAR = Path(__file__).parent / "avatar.jpg"
 
 
 def render_sanders(s):
     paras = "".join(f"<p>{html.escape(p)}</p>" for p in s["testo"])
-    av_bg, av_fg = s.get("avatar", ("#0e2a47", GOLD))
+    if AVATAR.exists():
+        av = f'<div class="av" style="background-image:url(\'{AVATAR.as_uri()}\')"></div>'
+    else:
+        av = f'<div class="av" style="background:#0e2a47;color:{GOLD}">RS</div>'
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{FONT_CSS}{SANDERS_CSS}</style></head>
-<body><div class="wrap">
-<div class="head"><div class="av" style="background:{av_bg};color:{av_fg}">RS</div>
+<body><div class="wrap"><div class="card">
+<div class="head">{av}
 <div><div class="name">Riccardo Staglianò</div><div class="handle">@rstagliano</div></div></div>
-<div class="txt" data-fit="760" style="font-size:{s.get("size",64)}px">{paras}</div>
+<div class="txt" data-fit="720" style="font-size:{s.get("size",64)}px">{paras}</div>
+</div>
 <div class="meta"><span>Tassare i milionari · Einaudi</span><span>@einaudieditore</span></div>
 </div><script>{FIT_JS}</script></body></html>"""
 
