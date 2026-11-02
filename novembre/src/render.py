@@ -12,7 +12,8 @@ from playwright.sync_api import sync_playwright
 sys.path.insert(0, str(Path(__file__).parent))
 from contenuti import GRAFICHE  # noqa: E402
 
-FONTS = Path("/tmp/claude-0/-home-claude/7482c459-19c8-502e-9f2e-d77429f3e3b2/scratchpad/fonts")
+import os
+FONTS = Path(os.environ.get("TIM_FONTS", "/tmp/claude-0/-home-claude/7482c459-19c8-502e-9f2e-d77429f3e3b2/scratchpad/fonts"))
 OUT = Path(__file__).resolve().parent.parent
 GOLD = "#f0b429"
 FOOTER = "Tassare i milionari · Einaudi · @rstagliano · @einaudieditore"
@@ -149,17 +150,17 @@ def render_slide(s, bg):
 
 SANDERS_CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1350px;overflow:hidden;background:#000}
-body{font-family:'DM Sans',sans-serif;color:#fff;-webkit-font-smoothing:antialiased}
+html,body{width:1080px;height:1350px;overflow:hidden;background:#fff}
+body{font-family:'DM Sans',sans-serif;color:#0f1419;-webkit-font-smoothing:antialiased}
 .wrap{width:1080px;height:1350px;padding:0 64px;display:flex;flex-direction:column;justify-content:center}
-.card{border:3px solid #cfd3d6;border-radius:44px;padding:52px 56px 58px}
+.card{border:3px solid #cfd9de;border-radius:44px;padding:52px 56px 58px;background:#fff}
 .head{display:flex;align-items:center;gap:28px;margin-bottom:46px}
 .av{width:124px;height:124px;border-radius:50%;flex:none;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;font-family:'Barlow Condensed';font-weight:800;font-size:56px}
-.name{font-weight:700;font-size:44px;line-height:1.1}
-.handle{font-size:36px;color:#a8adb2;margin-top:6px}
-.txt{font-weight:400;line-height:1.3;letter-spacing:-.2px}
+.name{font-weight:700;font-size:44px;line-height:1.1;color:#0f1419}
+.handle{font-size:36px;color:#536471;margin-top:6px}
+.txt{font-weight:400;line-height:1.3;letter-spacing:-.2px;color:#0f1419}
 .txt p+p{margin-top:.75em}
-.meta{margin-top:40px;font-size:28px;color:#8a9096;display:flex;justify-content:space-between;padding:0 8px}
+.meta{margin-top:40px;font-size:28px;color:#536471;display:flex;justify-content:space-between;padding:0 8px}
 """
 
 AVATAR = Path(__file__).parent / "avatar.jpg"
@@ -172,9 +173,9 @@ def render_sanders(s):
     else:
         av = f'<div class="av" style="background:#0e2a47;color:{GOLD}">RS</div>'
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{FONT_CSS}{SANDERS_CSS}</style></head>
-<body><div class="wrap"><div class="card">
+<body style="background:#fff"><div class="wrap"><div class="card" style="border-color:#cfd9de;background:#fff">
 <div class="head">{av}
-<div><div class="name">Riccardo Staglianò</div><div class="handle">@rstagliano</div></div></div>
+<div><div class="name">Riccardo Staglianò</div><div class="handle">{s.get("handle","@rstagliano")}</div></div></div>
 <div class="txt" data-fit="720" style="font-size:{s.get("size",64)}px">{paras}</div>
 </div>
 <div class="meta"><span>Tassare i milionari · Einaudi</span><span>@einaudieditore</span></div>
