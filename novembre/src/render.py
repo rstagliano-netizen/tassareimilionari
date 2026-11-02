@@ -158,8 +158,8 @@ body{font-family:'DM Sans',sans-serif;color:#0f1419;-webkit-font-smoothing:antia
 .av{width:124px;height:124px;border-radius:50%;flex:none;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;font-family:'Barlow Condensed';font-weight:800;font-size:56px}
 .name{font-weight:700;font-size:44px;line-height:1.1;color:#0f1419}
 .handle{font-size:36px;color:#536471;margin-top:6px}
-.txt{font-weight:400;line-height:1.3;letter-spacing:-.2px;color:#0f1419}
-.txt p+p{margin-top:.75em}
+.txt{font-weight:400;line-height:1.16;letter-spacing:-.2px;color:#0f1419}
+.txt p+p{margin-top:.6em}
 .meta{margin-top:40px;font-size:28px;color:#536471;display:flex;justify-content:space-between;padding:0 8px}
 """
 
