@@ -77,8 +77,8 @@ GRAFICHE = [
 
     # ───────── MER 11 NOV · LAPIDARIO ─────────
     {"nome": "n06_lap_rendite", "tipo": "sanders", "size": 72,
-     "testo": ["In Italia chi incassa affitti paga il 21%.",
-               "Chi incassa dividendi, il 26%.",
+     "testo": ["In Italia chi incassa dividendi paga il 26%.",
+               "Chi incassa affitti, il 21%.",
                "Chi lavora come dipendente, quasi il doppio.",
                "E poi ci dicono che il lavoro va premiato."]},
 
