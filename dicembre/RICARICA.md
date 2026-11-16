@@ -10,7 +10,7 @@ Procedura eseguita ogni sera alle 21 dall'attività programmata «Ricarica coda 
 1. Leggi le voci di entrambi i file con `dueAt` successivo ad adesso + 30 minuti.
 2. Elenca i post Buffer con stato scheduled, sending, sent ed error da 7 giorni fa in avanti. Una voce è già fatta se esiste un post sullo stesso `channelId` con lo stesso `dueAt` (stesso minuto). Saltala.
 3. Conta i post in stato scheduled: i posti liberi sono 10 meno quel numero.
-4. Aggiungi le voci mancanti in ordine di `dueAt`, la più vicina per prima, finché ci sono posti: `create_post` con `mode` customScheduled, `dueAt`, `text`, le immagini (`images`, con `altText`) o il video (`video`), e per Instagram `instagramType` post.
+4. Aggiungi le voci mancanti in ordine di `dueAt`, la più vicina per prima, finché ci sono posti: `create_post` con `channelId`, `schedulingType` automatic, `mode` customScheduled, `dueAt`, `text`, `assets` (per ogni immagine `{image: {url, metadata: {altText}}}`, per il video `{video: {url}}`); per Instagram `metadata.instagram` = `{type: "post", shouldShareToFeed: true}`.
 5. Se Buffer rifiuta una voce, non riprovare più di una volta; annotala nel resoconto.
 
 ## Typefully (social set 352215; piano gratuito: 10 post al mese)
