@@ -22,6 +22,9 @@ TESTI = {g["nome"]: g["testo"] for g in GRAFICHE if g["tipo"] == "sanders"}
 ITEMS = [
     ("d01_lap_fumo", "sigarette.jpg", 0.5, 0.0, "bottom", 0, 36, ""),
     ("d02_lap_bezos", "bezos.jpg", 0.5, 0.0, "bottom", 0, 40, ""),
+    ("d04_lap_lakoff", "lakoff.jpg", 0.5, 0.0, "bottom_low", 0, 34, ""),
+    ("d07_lap_limitarianismo", "montecarlo.jpg", 0.6, 0.0, "top_high", 0, 34, ""),
+    ("d12_lap_shafir", "cancello.jpg", 0.5, 0.0, "top_high", 0, 34, ""),
     ("d05_lap_thiel", "thiel.jpg", 0.5, 0.0, "bottom_low", 260, 32, ""),
     ("d09_lap_trump", "trump.jpg", 0.5, 0.0, "bottom", 0, 40, ""),
     ("d10_lap_palazzo_chigi", "chigi.jpg", 0.5, 0.0, "top_high", 0, 32, ""),
