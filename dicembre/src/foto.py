@@ -25,7 +25,7 @@ ITEMS = [
     ("d04_lap_lakoff", "lakoff.jpg", 0.5, 0.0, "bottom_low", 0, 34, ""),
     ("d07_lap_limitarianismo", "montecarlo.jpg", 0.6, 0.0, "top_high", 0, 34, ""),
     ("d12_lap_shafir", "cancello.jpg", 0.5, 0.0, "top_high", 0, 34, ""),
-    ("d14_lap_ottanta", "pendolari.png", 0.95, 0.0, "bottom_low", 0, 34, ""),
+    ("d14_lap_ottanta", "pendolari.png", 0.85, 0.0, "bottom_low", 0, 34, ""),
     ("d15_lap_sperate", "grattaevinci.png", 0.5, 0.0, "top_high", 0, 38, ""),
     ("d17_lap_babbo_natale", "babbonatale.png", 0.5, 0.0, "bottom_low", 0, 36, ""),
     ("d05_lap_thiel", "thiel.jpg", 0.5, 0.0, "bottom_low", 260, 32, ""),
