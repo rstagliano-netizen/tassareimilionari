@@ -20,9 +20,9 @@ TESTI = {g["nome"]: g["testo"] for g in GRAFICHE if g["tipo"] == "sanders"}
 
 # nome grafica, file foto, fuoco x, fuoco y, posizione card, spostamento in su della foto (px), corpo testo, credito
 ITEMS = [
-    ("d01_lap_fumo", "sigarette.jpg", 0.5, 0.0, "bottom", 0, 36, ""),
+    ("d01_lap_fumo", "sigarette.jpg", 0.5, 0.0, "bottom", 0, 36, "Pubblicità Marlboro, anni Sessanta"),
     ("d02_lap_bezos", "bezos.jpg", 0.5, 0.0, "bottom", 0, 40, ""),
-    ("d04_lap_lakoff", "lakoff.jpg", 0.5, 0.0, "bottom_low", 0, 34, ""),
+    ("d04_lap_lakoff", "lakoff.jpg", 0.5, 0.0, "bottom_low", 0, 34, "Copertina Chiarelettere"),
     ("d07_lap_limitarianismo", "montecarlo.jpg", 0.6, 0.0, "top_high", 0, 34, ""),
     ("d12_lap_shafir", "cancello.jpg", 0.5, 0.0, "top_high", 0, 34, ""),
     ("d14_lap_ottanta", "pendolari.png", 0.85, 0.0, "bottom_low", 0, 34, ""),
