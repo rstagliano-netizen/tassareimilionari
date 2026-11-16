@@ -127,6 +127,9 @@ def main():
         for f in files:
             assert (ROOT / "dicembre" / f).exists(), f
         imgs = [{"url": RAW + f, "altText": alt if i == 0 else f"{alt} Slide {i + 1} di {n}."} for i, f in enumerate(files)]
+        if (ROOT / "dicembre" / "foto" / f"{nome}_foto.png").exists():  # versione con foto di sfondo
+            files = [f"foto/{nome}_foto.png"]
+            imgs = [{"url": RAW + files[0], "altText": alt}]
         for ch in ("li", "ig", "tt"):
             cid, svc, ora = CH[ch]
             t = cap[ch]
