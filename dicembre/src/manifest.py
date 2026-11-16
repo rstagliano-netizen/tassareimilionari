@@ -13,8 +13,8 @@ ROOT = Path(__file__).resolve().parents[2]
 RAW = "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/"
 CH = {"li": ("678e5ba1a31978b79c17b7af", "linkedin", "08:45"),
       "ig": ("67b9d5de3b85969eaf257498", "instagram", "13:10"),
-      "tt": ("679ca1a0a31978b79c5df442", "tiktok", "19:10")}
-TIKTOK = "679ca1a0a31978b79c5df442"
+      "tt": ("6adf14242f1f5ed648d660dd", "tiktok", "19:10")}
+TIKTOK = "6adf14242f1f5ed648d660dd"
 
 # data, chiave, grafica, alt, aggancio per X/Threads/Bluesky (solo lapidari), caption {ig, tt, li}
 POST = [
@@ -144,6 +144,11 @@ def main():
     voci.sort(key=lambda v: v["dueAt"])
     out = {"buffer": voci, "lapidari_da_riciclare": agganci}
     (ROOT / "dicembre" / "coda_dicembre.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    # accoda anche alla lista letta dal rabbocco serale (ottobre/coda_buffer.json)
+    coda = ROOT / "ottobre" / "coda_buffer.json"
+    old = json.loads(coda.read_text(encoding="utf-8"))
+    old = [v for v in old if not v["key"].startswith(("dic-", "reel-"))] + voci
+    coda.write_text(json.dumps(old, ensure_ascii=False, indent=1), encoding="utf-8")
     print(len(voci), "voci Buffer;", len(agganci), "lapidari da riciclare")
 
 

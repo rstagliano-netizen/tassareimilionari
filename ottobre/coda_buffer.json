@@ -677,7 +677,7 @@
  },
  {
   "key": "nov-quiz-detto-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-03T19:10:00+01:00",
   "text": "Chi ha scritto «quel travaso pazzesco di ricchezza dal lavoro al capitale»? Rispondi nei commenti, poi scorri. #tassareimilionari #tasse #quiz @einaudieditore",
@@ -737,7 +737,7 @@
  },
  {
   "key": "nov-lap-prof-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-04T19:10:00+01:00",
   "text": "Un prof italiano a fine carriera guadagna meno di un collega tedesco al primo giorno. 43 mila contro 61 mila. #tassareimilionari #tasse #scuola @einaudieditore",
@@ -777,7 +777,7 @@
  },
  {
   "key": "nov-salari-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-05T19:10:00+01:00",
   "text": "Dal 2008 i salari reali: Germania +14%, Francia +5%, Italia −9%. Soffrono tutti? No, soffriamo noi. #tassareimilionari #tasse #salari @einaudieditore",
@@ -817,7 +817,7 @@
  },
  {
   "key": "nov-lap-2008-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-06T19:10:00+01:00",
   "text": "Crisi del 2008: 55 persone in carcere, quasi tutte in Islanda. In America zero. Chi ha pagato? Noi. #tassareimilionari #tasse #finanza @einaudieditore",
@@ -897,7 +897,7 @@
  },
  {
   "key": "nov-casa-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-10T19:10:00+01:00",
   "text": "Vienna: 40% di case popolari. Roma: 7%. Ecco perché non trovi casa. #tassareimilionari #tasse #casa @einaudieditore",
@@ -957,7 +957,7 @@
  },
  {
   "key": "nov-lap-rendite-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-11T19:10:00+01:00",
   "text": "Affitti al 21%, dividendi al 26%, stipendio quasi il doppio. E poi ci dicono che il lavoro va premiato. #tassareimilionari #tasse #lavoro @einaudieditore",
@@ -997,7 +997,7 @@
  },
  {
   "key": "nov-angeli-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-12T19:10:00+01:00",
   "text": "Nel 2020 erano «i nostri angeli». Nel 2023 tre primari multati di 27 mila euro per troppi straordinari. #tassareimilionari #tasse #sanità @einaudieditore",
@@ -1037,7 +1037,7 @@
  },
  {
   "key": "nov-lap-mentone-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-13T19:10:00+01:00",
   "text": "Milionario francese? Per lasciare un'eredità conviene trasferirsi in Liguria. Lì prendono fino al 60%, qui tra il 4 e l'8. #tassareimilionari #tasse #eredità @einaudieditore",
@@ -1117,7 +1117,7 @@
  },
  {
   "key": "nov-miliardari-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-17T19:10:00+01:00",
   "text": "Quattro miliardari italiani che nessuno conosce. Uno ha inventato le scarpe da Grande Lebowski. #tassareimilionari #tasse #miliardari @einaudieditore",
@@ -1156,8 +1156,8 @@
   "text": "Gabriel Zucman, nel rapporto preparato per la presidenza brasiliana del G20 del 2024, ha stimato che i circa 3.000 miliardari del mondo pagano imposte pari a circa lo 0,3% della loro ricchezza. In proporzione meno di qualsiasi altro gruppo sociale.\n\nLa proposta: uno standard minimo del 2% annuo. Non un'imposta aggiuntiva per chi già paga abbastanza, ma una soglia. Ogni Stato sceglie come raggiungerla: patrimoniale, tassazione delle plusvalenze, successione.\n\nGettito stimato: 200-250 miliardi di dollari l'anno, che diventano 300-400 includendo i centimilionari. Più della minimum tax sulle multinazionali.\n\nLa proposta è entrata nel comunicato finale del G20 di Rio. Sette premi Nobel per l'economia l'hanno sostenuta pubblicamente.\n\n#tassareimilionari #zucman #fisco @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n10_lap_zucman.png",
-    "altText": "I circa 3.000 miliardari del pianeta pagano lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n10_lap_zucman_foto.png",
+    "altText": "Su una foto di superyacht ormeggiati, una card: i circa 3.000 miliardari del pianeta pagano in tasse lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
    }
   ]
  },
@@ -1169,22 +1169,22 @@
   "text": "Lo 0,3%. È quanto pagano in tasse, in media, i circa 3.000 miliardari del pianeta rispetto alla loro ricchezza (calcoli di Gabriel Zucman).\n\nLa sua proposta, finita nel comunicato del G20 di Rio: un'imposta minima del 2%. Chi paga già di più, non paga un euro in più.\n\nGettito stimato: 200-250 miliardi di dollari l'anno. Miliardari rimasti miliardari: tutti.\n\n#tassareimilionari #zucman #patrimoniale @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n10_lap_zucman.png",
-    "altText": "I circa 3.000 miliardari del pianeta pagano lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n10_lap_zucman_foto.png",
+    "altText": "Su una foto di superyacht ormeggiati, una card: i circa 3.000 miliardari del pianeta pagano in tasse lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
    }
   ],
   "instagramType": "post"
  },
  {
   "key": "nov-lap-zucman-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-18T19:10:00+01:00",
   "text": "I miliardari pagano lo 0,3% della loro ricchezza. Chiedere il 2% sarebbe estremismo? #tassareimilionari #tasse #zucman @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n10_lap_zucman.png",
-    "altText": "I circa 3.000 miliardari del pianeta pagano lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n10_lap_zucman_foto.png",
+    "altText": "Su una foto di superyacht ormeggiati, una card: i circa 3.000 miliardari del pianeta pagano in tasse lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."
    }
   ]
  },
@@ -1196,8 +1196,8 @@
   "text": "Un indicatore semplice per capire cosa è successo agli stipendi pubblici: quanti mesi di lavoro servono a un insegnante per comprare un'utilitaria.\n\nSecondo il Coordinamento Amaldi, docenti di un liceo di Tor Bella Monaca, su dati Cgil: 5,4 mensilità nel 2010, quasi 9 oggi. Stimano in un 32% l'effetto cumulato dell'inflazione dal 2010.\n\nIl rinnovo contrattuale non compensa: rispetto al 2021, a parità di potere d'acquisto, molti docenti restano sotto di circa 300 euro al mese.\n\nInvestiamo nell'istruzione il 4,1% del Pil contro il 5,1% della media europea. Se vogliamo che l'ascensore sociale riparta, è da lì che bisogna cominciare. E bisogna decidere chi paga.\n\n#tassareimilionari #scuola #salari @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n11_post_panda.png",
-    "altText": "Per comprare una Panda a un prof servivano 5,4 stipendi nel 2010, oggi quasi 9."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n11_lap_panda_foto.png",
+    "altText": "Su una foto di una Fiat Panda in strada, una card: nel 2010 a un prof servivano 5,4 stipendi per comprare una Panda, oggi quasi 9."
    }
   ]
  },
@@ -1209,22 +1209,22 @@
   "text": "Nel 2010 a un prof servivano 5,4 stipendi per comprare una Fiat Panda. Oggi quasi 9.\n\nIl calcolo l'hanno fatto i docenti del Coordinamento Amaldi, liceo di Tor Bella Monaca, su dati Cgil. Lo hanno spiegato in classe, insieme all'inflazione, e poi sono scesi in cortile con uno striscione: «Ridateci i nostri salari».\n\nLa Panda nel frattempo non è diventata una Ferrari. È lo stipendio che è diventato una Panda.\n\n#tassareimilionari #scuola #salari @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n11_post_panda.png",
-    "altText": "Per comprare una Panda a un prof servivano 5,4 stipendi nel 2010, oggi quasi 9."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n11_lap_panda_foto.png",
+    "altText": "Su una foto di una Fiat Panda in strada, una card: nel 2010 a un prof servivano 5,4 stipendi per comprare una Panda, oggi quasi 9."
    }
   ],
   "instagramType": "post"
  },
  {
   "key": "nov-panda-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-19T19:10:00+01:00",
   "text": "Nel 2010 a un prof servivano 5,4 stipendi per una Panda. Oggi quasi 9. #tassareimilionari #tasse #scuola @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n11_post_panda.png",
-    "altText": "Per comprare una Panda a un prof servivano 5,4 stipendi nel 2010, oggi quasi 9."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n11_lap_panda_foto.png",
+    "altText": "Su una foto di una Fiat Panda in strada, una card: nel 2010 a un prof servivano 5,4 stipendi per comprare una Panda, oggi quasi 9."
    }
   ]
  },
@@ -1236,8 +1236,8 @@
   "text": "Molte riforme fiscali che oggi diamo per scontate erano considerate irrealizzabili fino a poco prima di diventarlo.\n\nIl segreto bancario svizzero è caduto nel 2015. Il piano Beps contro lo spostamento dei profitti delle multinazionali è arrivato dopo dieci anni di negoziati. La global minimum tax del 15% è stata approvata dal G20 nel 2021.\n\nÈ il meccanismo descritto dalla finestra di Overton: un'idea passa da impensabile a radicale, poi accettabile, sensata, politica e infine istituzionalizzata. Nel 2024 il G20 di Rio ha inserito per la prima volta nel comunicato finale l'obiettivo di tassare efficacemente i patrimoni ultra-elevati.\n\nLa domanda non è più se se ne parlerà, ma quando e come.\n\n#tassareimilionari #fisco #policy @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n12_lap_segreto_bancario.png",
-    "altText": "Vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n12_lap_segreto_bancario_foto.png",
+    "altText": "Su una foto di Paradeplatz a Zurigo, una card: vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
    }
   ]
  },
@@ -1249,22 +1249,22 @@
   "text": "Vent'anni fa chi parlava di abolire il segreto bancario svizzero era un sognatore. È caduto nel 2015.\n\nNel 2015 l'università gratuita e la sanità per tutti di Bernie Sanders facevano ridere. Due anni dopo le sue proposte avevano decine di cofirmatari al Congresso.\n\nSi chiama finestra di Overton: le idee impensabili diventano radicali, poi accettabili, poi legge. La patrimoniale sui multimilionari è a metà strada. Ogni condivisione la sposta un centimetro.\n\n#tassareimilionari #overton #patrimoniale @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n12_lap_segreto_bancario.png",
-    "altText": "Vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n12_lap_segreto_bancario_foto.png",
+    "altText": "Su una foto di Paradeplatz a Zurigo, una card: vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
    }
   ],
   "instagramType": "post"
  },
  {
   "key": "nov-lap-segreto-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-20T19:10:00+01:00",
   "text": "Il segreto bancario svizzero sembrava eterno. È caduto nel 2015. La prossima a sembrare impossibile? La patrimoniale. #tassareimilionari #tasse #overton @einaudieditore",
   "images": [
    {
-    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n12_lap_segreto_bancario.png",
-    "altText": "Vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/foto/n12_lap_segreto_bancario_foto.png",
+    "altText": "Su una foto di Paradeplatz a Zurigo, una card: vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."
    }
   ]
  },
@@ -1337,7 +1337,7 @@
  },
  {
   "key": "nov-quiz-vive-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-24T19:10:00+01:00",
   "text": "Chi vive di più: un milionario americano o un povero svedese? La risposta ti stupirà (davvero). #tassareimilionari #tasse #sanità @einaudieditore",
@@ -1397,7 +1397,7 @@
  },
  {
   "key": "nov-lap-quota-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-25T19:10:00+01:00",
   "text": "50 mila italiani hanno quasi raddoppiato la loro fetta di ricchezza. 25 milioni l'hanno vista crollare. #tassareimilionari #tasse #disuguaglianze @einaudieditore",
@@ -1437,7 +1437,7 @@
  },
  {
   "key": "nov-henley-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-26T19:10:00+01:00",
   "text": "I milionari fuggono da Londra! I milionari arrivano in Italia! Stessa fonte: chi vende i visti. #tassareimilionari #tasse #fakenews @einaudieditore",
@@ -1477,7 +1477,7 @@
  },
  {
   "key": "nov-lap-blackfriday-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-11-27T19:10:00+01:00",
   "text": "Black Friday? Per i milionari italiani dura tutto l'anno: affitti al 21%, dividendi all'1%, eredità al 4%. #tassareimilionari #tasse #blackfriday @einaudieditore",
@@ -1557,7 +1557,7 @@
  },
  {
   "key": "nov-europa-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-12-01T19:10:00+01:00",
   "text": "Svizzera, Norvegia e Spagna hanno la patrimoniale. Tre pericolosi covi di estremisti, evidentemente. #tassareimilionari #tasse #europa @einaudieditore",
@@ -1617,7 +1617,7 @@
  },
  {
   "key": "nov-lap-davvero-tt",
-  "channelId": "679ca1a0a31978b79c5df442",
+  "channelId": "6adf14242f1f5ed648d660dd",
   "service": "tiktok",
   "dueAt": "2026-12-02T19:10:00+01:00",
   "text": "Se sei milionario dovresti pagare più tasse di un impiegato. Davvero c'è bisogno di spiegarlo? #tassareimilionari #tasse #patrimoniale @einaudieditore",
@@ -1625,6 +1625,914 @@
    {
     "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/n18_lap_davvero.png",
     "altText": "Se sei milionario dovresti pagare molte più tasse di un impiegato. Se sei miliardario, mille volte di più."
+   }
+  ]
+ },
+ {
+  "key": "reel-exittax-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-18T20:30:00+01:00",
+  "text": "Introducendo una exit tax, il governo ha appena sbriciolato la principale obiezione contro la patrimoniale: la fuga dei milionari. Che se ne sia accorto o no. #tassareimilionari #patrimoniale #exittax @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-9341838244676166795.mp4"
+ },
+ {
+  "key": "reel-flattax-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-21T20:30:00+01:00",
+  "text": "Alzare la flat tax per chi guadagna 100 mila euro l'anno: un abominio, spiegato in un minuto. #tassareimilionari #patrimoniale #flattax @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-8688831443457822703.mp4"
+ },
+ {
+  "key": "dic-lap-fumo-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-11-23T08:45:00+01:00",
+  "text": "Per decenni la politica economica si è appoggiata a un'idea semplice: se chi sta in cima si arricchisce, i benefici prima o poi «sgocciolano» su tutti. È la trickle-down economics.\n\nMark Bou Mansour, responsabile della comunicazione del Tax Justice Network, la paragona al fumo: a lungo l'abbiamo creduta innocua, poi le evidenze hanno mostrato il contrario. I dati italiani raccontano la stessa storia: tra il 1995 e il 2016 lo 0,1% più ricco ha quasi raddoppiato la sua quota di ricchezza, mentre la metà più povera è scesa dal 12 a meno del 4%.\n\nLe evidenze ci sono, osserva Bou Mansour; le regole sono rimaste indietro. Una tassa sui grandi patrimoni serve a riallinearle: chi accumula ricchezza e chi la guadagna lavorando dovrebbero avere lo stesso trattamento fiscale.\n\n#tassareimilionari #disuguaglianze #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d01_lap_fumo.png",
+    "altText": "Card: «Pensavamo che il fumo facesse bene. Poi abbiamo scoperto che uccide. Lo stesso sta accadendo con la ricchezza estrema» (Mark Bou Mansour, Tax Justice Network)."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-fumo-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-11-23T13:10:00+01:00",
+  "text": "Si chiamava trickle-down economics, la teoria dello sgocciolamento: arricchite chi sta in cima e la ricchezza colerà giù per tutti. Quarant'anni dopo, i dati dicono il contrario.\n\nMark Bou Mansour, del Tax Justice Network, propone un paragone che fa male: come il fumo. Pensavamo facesse bene, poi abbiamo letto il bugiardino.\n\nIl prossimo che vi spiega che tassare i ricchi danneggia tutti, chiedetegli se crede ancora alle pubblicità delle sigarette col dottore.\n\n#tassareimilionari #trickledown #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d01_lap_fumo.png",
+    "altText": "Card: «Pensavamo che il fumo facesse bene. Poi abbiamo scoperto che uccide. Lo stesso sta accadendo con la ricchezza estrema» (Mark Bou Mansour, Tax Justice Network)."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-fumo-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-23T19:10:00+01:00",
+  "text": "Pensavamo che il fumo facesse bene. Con la ricchezza estrema è andata uguale. #tassareimilionari #tasse #trickledown @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d01_lap_fumo.png",
+    "altText": "Card: «Pensavamo che il fumo facesse bene. Poi abbiamo scoperto che uccide. Lo stesso sta accadendo con la ricchezza estrema» (Mark Bou Mansour, Tax Justice Network)."
+   }
+  ]
+ },
+ {
+  "key": "reel-cucinelli-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-25T20:30:00+01:00",
+  "text": "A cosa dovrebbe rinunciare chi ha 6 milioni di patrimonio, con una patrimoniale? All'equivalente di una giacca di Cucinelli all'anno. #tassareimilionari #patrimoniale #tasse @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-13011740286105524036.mp4"
+ },
+ {
+  "key": "reel-trucco-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-28T20:30:00+01:00",
+  "text": "Com'è che i miliardari pagano tasse ridicole? Ve lo spieghiamo in un minuto, con @quielasti. #tassareimilionari #patrimoniale #tasse @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-14487715259089623914.mp4"
+ },
+ {
+  "key": "dic-lap-bezos-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-11-30T08:45:00+01:00",
+  "text": "Nel 2011 Jeff Bezos non ha pagato tasse sul reddito. Nel 2018 Elon Musk ne ha versate poco più di 8.000 dollari. Nessuna evasione: patrimoni strutturati con cura, nel rispetto della legge.\n\nIl motivo è che le grandi fortune crescono soprattutto come plusvalenze non realizzate: azioni che si rivalutano e che, finché non vengono vendute, non generano reddito imponibile. Per questo Gabriel Zucman stima che i circa 3.000 miliardari del mondo paghino in media lo 0,3% della propria ricchezza.\n\nUn sistema che tassa solo i flussi, e non gli stock, finisce per far pagare di più chi lavora rispetto a chi possiede. È il cuore della proposta di un'imposta minima sui grandi patrimoni.\n\n#tassareimilionari #fisco #ricchezza @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d02_lap_bezos.png",
+    "altText": "Card: nel 2011 Jeff Bezos ha pagato zero dollari di tasse sul reddito."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-bezos-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-11-30T13:10:00+01:00",
+  "text": "Nel 2011 Jeff Bezos ha pagato zero tasse sul reddito. Non per evasione: patrimonio strutturato con cura, tutto legale.\n\nIl punto è che i miliardari non vivono di stipendio. La loro ricchezza cresce sotto forma di azioni che si rivalutano, e finché non le vendono il fisco quei guadagni non li vede.\n\nEcco perché serve una tassa sulla ricchezza, non solo sul reddito. Altrimenti continueremo ad avere magazzinieri che pagano più tasse del padrone del magazzino.\n\n#tassareimilionari #bezos #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d02_lap_bezos.png",
+    "altText": "Card: nel 2011 Jeff Bezos ha pagato zero dollari di tasse sul reddito."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-bezos-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-11-30T19:10:00+01:00",
+  "text": "Jeff Bezos, 2011: tasse sul reddito pagate, zero. Tu? #tassareimilionari #tasse #bezos @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d02_lap_bezos.png",
+    "altText": "Card: nel 2011 Jeff Bezos ha pagato zero dollari di tasse sul reddito."
+   }
+  ]
+ },
+ {
+  "key": "reel-holding-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-02T20:30:00+01:00",
+  "text": "Il trucco dei milionari per pagare circa l'1% sui dividendi: una holding. Tu, da persona fisica, paghi il 26% pieno. #tassareimilionari #patrimoniale #holding @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-1838150284791620713.mp4"
+ },
+ {
+  "key": "dic-mamdani-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-03T08:45:00+01:00",
+  "text": "Nel novembre 2025 Zohran Mamdani è stato eletto sindaco di New York, il primo musulmano nella storia della città. La sua piattaforma ruotava intorno al costo della vita: una città «abbordabile», finanziata in buona parte alzando le tasse a milionari e miliardari.\n\nPer mesi è stato descritto come troppo radicale per vincere. Ha vinto parlando con chiarezza di ciò che pesa sulla vita quotidiana delle persone, e indicando chi poteva contribuire di più.\n\nC'è una lezione anche per la politica italiana: la tassazione dei grandi patrimoni, se raccontata bene, non è un tema perdente. I sondaggi indicano un consenso tra il 70 e l'80%. Manca chi lo trasformi in proposta.\n\n#tassareimilionari #politica #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d03_post_mamdani.png",
+    "altText": "Ha promesso di tassare i milionari. Ha vinto: Zohran Mamdani, sindaco di New York."
+   }
+  ]
+ },
+ {
+  "key": "dic-mamdani-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-03T13:10:00+01:00",
+  "text": "Zohran Mamdani ha costruito la sua campagna su una promessa semplice: rendere New York abbordabile per chi ci vive, alzando le tasse a milionari e miliardari. Mezzo establishment, anche democratico, gli dava del radicale. Ha vinto lo stesso, diventando il primo sindaco musulmano della città.\n\nMorale: tassare i ricchi non fa perdere le elezioni. Semmai le fa perdere non dire niente.\n\nE da noi? Se ne può parlare, dicono. Poi non ne parlano.\n\n#tassareimilionari #mamdani #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d03_post_mamdani.png",
+    "altText": "Ha promesso di tassare i milionari. Ha vinto: Zohran Mamdani, sindaco di New York."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-mamdani-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-03T19:10:00+01:00",
+  "text": "Ha promesso di tassare i milionari. Lo chiamavano radicale. Ora è sindaco di New York. #tassareimilionari #tasse #mamdani @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d03_post_mamdani.png",
+    "altText": "Ha promesso di tassare i milionari. Ha vinto: Zohran Mamdani, sindaco di New York."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-lakoff-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-04T08:45:00+01:00",
+  "text": "Il linguista George Lakoff ha mostrato come il dibattito sulle tasse si vinca, prima ancora che sui numeri, sulle parole. Se le tasse sono un «peso» e la loro riduzione un «sollievo», chiunque proponga di alzarle parte in svantaggio. E chi contesta l'espressione, ripetendola, finisce per rafforzarla.\n\nLa sua proposta è cambiare cornice: le tasse come investimento per il futuro, come quota d'iscrizione per vivere in un Paese civile. Chi le paga è un patriota; chi le evade danneggia il proprio Paese.\n\nNon è un dettaglio di comunicazione. Una riforma fiscale progressiva passa anche dalla capacità di raccontarla.\n\n#tassareimilionari #comunicazione #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d04_lap_lakoff.png",
+    "altText": "Card: le tasse sono la quota d'iscrizione per vivere in un Paese civile. Chi le paga è un patriota, chi le evade un traditore (George Lakoff)."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-lakoff-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-04T13:10:00+01:00",
+  "text": "«Pressione fiscale», «sollievo fiscale». Le parole che usiamo per le tasse sono quelle di una malattia. Il linguista George Lakoff lo ripete da anni: chi accetta quel vocabolario ha già perso. Le tasse sono la quota d'iscrizione per vivere in un Paese civile, con ospedali, scuole e treni.\n\nE c'è un corollario che dovrebbe piacere molto ai patrioti di professione: chi le paga è un patriota, chi le evade un traditore.\n\n#tassareimilionari #lakoff #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d04_lap_lakoff.png",
+    "altText": "Card: le tasse sono la quota d'iscrizione per vivere in un Paese civile. Chi le paga è un patriota, chi le evade un traditore (George Lakoff)."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-lakoff-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-04T19:10:00+01:00",
+  "text": "Le tasse? La quota d'iscrizione per vivere in un Paese civile. Chi le evade è un traditore. #tassareimilionari #tasse #lakoff @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d04_lap_lakoff.png",
+    "altText": "Card: le tasse sono la quota d'iscrizione per vivere in un Paese civile. Chi le paga è un patriota, chi le evade un traditore (George Lakoff)."
+   }
+  ]
+ },
+ {
+  "key": "reel-appendino-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-05T20:30:00+01:00",
+  "text": "Chiara Appendino alla presentazione di «Tassare i milionari». #tassareimilionari #patrimoniale #tasse @einaudieditore",
+  "video": "https://static.metricool.com/planner/202611/7901406-file-5127476621301834817.mp4"
+ },
+ {
+  "key": "dic-lap-thiel-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-07T08:45:00+01:00",
+  "text": "Peter Thiel è da oltre vent'anni il caso di scuola di come i miliardari usino strumenti pensati per altri. Il Roth IRA è un conto pensionistico statunitense con rendimenti esentasse, nato per incentivare il risparmio previdenziale delle famiglie. Thiel lo ha usato per far crescere investimenti molto redditizi al riparo dal fisco.\n\nÈ un esempio estremo, ma il meccanismo è generale: ogni agevolazione disegnata per il ceto medio diventa, nelle mani di chi ha grandi patrimoni e ottimi consulenti, uno strumento di elusione su scala completamente diversa.\n\nPer questo la proposta di Gabriel Zucman al G20 non punta a moltiplicare le regole, ma a fissare un pavimento: almeno il 2% della ricchezza, comunque la si strutturi.\n\n#tassareimilionari #fisco #elusione @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d05_lap_thiel.png",
+    "altText": "Card: Peter Thiel ha fatto crescere la sua fortuna per oltre vent'anni in un conto pensionistico esentasse pensato per la gente comune."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-thiel-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-07T13:10:00+01:00",
+  "text": "Il Roth IRA è un conto pensionistico americano: ci metti dentro piccole somme e i guadagni sono esentasse. Pensato per l'infermiere, il maestro, l'impiegato.\n\nPeter Thiel, cofondatore di PayPal e grande sponsor della destra trumpiana, ci ha fatto fruttare dentro per oltre vent'anni una fortuna, senza pagare un dollaro di tasse.\n\nOgni volta che sentite dire che un'agevolazione fiscale serve ad aiutare il ceto medio, pensate a Thiel. Lui ringrazia.\n\n#tassareimilionari #thiel #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d05_lap_thiel.png",
+    "altText": "Card: Peter Thiel ha fatto crescere la sua fortuna per oltre vent'anni in un conto pensionistico esentasse pensato per la gente comune."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-thiel-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-07T19:10:00+01:00",
+  "text": "Un conto pensione esentasse per la gente comune. Peter Thiel ci ha messo dentro una fortuna. Tasse: zero. #tassareimilionari #tasse #thiel @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d05_lap_thiel.png",
+    "altText": "Card: Peter Thiel ha fatto crescere la sua fortuna per oltre vent'anni in un conto pensionistico esentasse pensato per la gente comune."
+   }
+  ]
+ },
+ {
+  "key": "dic-eredita-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-08T08:45:00+01:00",
+  "text": "L'imposta di successione italiana è un caso unico tra le economie avanzate. Ogni anno si trasferiscono quasi 250 miliardi di euro tra eredità e donazioni; il gettito resta sotto il miliardo. La Francia, su volumi comparabili, raccoglie circa 21 miliardi.\n\nLe ragioni sono strutturali: una franchigia di un milione per coniuge e figli (in Germania 400 mila euro, in Francia 160 mila, in Spagna 16 mila); valori catastali in media tre volte inferiori a quelli di mercato; l'esenzione per le partecipazioni d'impresa; e, da ultimo, l'abolizione del coacervo, che sommava le donazioni in vita all'eredità. Fino al 2001, inoltre, l'imposta era progressiva, con aliquote dal 3 al 27%.\n\nSalvatore Morelli (Roma Tre) propone di abbassare la soglia a 360 mila euro: il peso ricadrebbe per il 90% sui lasciti superiori al milione. Una riforma che non tocca il ceto medio e riallinea l'Italia all'Europa.\n\n#tassareimilionari #eredità #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_1.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_2.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_3.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_4.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_5.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_6.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-eredita-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-08T13:10:00+01:00",
+  "text": "In Italia ogni anno passano di mano, tra eredità e donazioni, quasi 250 miliardi. Lo Stato ne incassa meno di uno. La Francia, su cifre simili, 21.\n\nCome si fa? Quattro scappatoie, tutte legali: la soglia esente più alta d'Europa, il catasto fermo a valori preistorici, l'esenzione per le quote d'azienda e, da poco, il regalo in vita che non si somma più all'eredità.\n\nSalva il post. Non per usarlo: per arrabbiarti con calma.\n\n#tassareimilionari #eredità #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_1.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_2.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_3.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_4.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_5.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_6.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 6 di 6."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-eredita-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-08T19:10:00+01:00",
+  "text": "Ereditare in Italia senza pagare: quattro scappatoie legali. La terza riguarda i 423 milioni dei figli di Berlusconi. #tassareimilionari #tasse #eredità @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_1.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_2.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_3.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_4.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_5.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d06_car_eredita_6.png",
+    "altText": "Ereditare senza pagare: quattro scappatoie legali dell'imposta di successione italiana. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-limitarianismo-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-09T08:45:00+01:00",
+  "text": "Nel dibattito accademico si sta facendo strada una posizione che pochi anni fa sarebbe sembrata marginale: il limitarianismo. La filosofa Ingrid Robeyns, dell'Università di Utrecht, sostiene che oltre una certa soglia, nell'ordine dei dieci milioni, la ricchezza individuale sia moralmente indifendibile e strutturalmente dannosa per la società.\n\nNon è la proposta del mio libro. Quella di Oxfam Italia, che sostengo, prevede un prelievo dall'1 al 3% l'anno sui patrimoni oltre i 5,4 milioni: lo 0,1% più ricco, circa 50 mila persone, per un gettito stimato intorno ai 13 miliardi.\n\nMa la discussione sul limitarianismo aiuta a collocare le posizioni. Quella che spesso viene presentata come una misura estrema si trova, in realtà, nel mezzo dello spettro.\n\n#tassareimilionari #disuguaglianze #filosofia @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d07_lap_limitarianismo.png",
+    "altText": "Card: c'è chi trova estremista una patrimoniale dall'1 al 3% sopra i 5,4 milioni. Intanto c'è chi propone un tetto alla ricchezza."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-limitarianismo-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-09T13:10:00+01:00",
+  "text": "Si chiama limitarianismo, e la sua teorica più nota è la filosofa Ingrid Robeyns, che insegna a Utrecht: oltre una certa soglia, diciamo dieci milioni, la ricchezza è moralmente indifendibile e fa danni alla società. Quindi va limitata.\n\nIo non chiedo tanto. Mi basterebbe che chi ha più di 5,4 milioni pagasse dall'1 al 3% l'anno. Ma ogni tanto è utile ricordare che il dibattito è più largo di quanto ci raccontano. E che noi stiamo nel mezzo.\n\n#tassareimilionari #limitarianismo #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d07_lap_limitarianismo.png",
+    "altText": "Card: c'è chi trova estremista una patrimoniale dall'1 al 3% sopra i 5,4 milioni. Intanto c'è chi propone un tetto alla ricchezza."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-limitarianismo-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-09T19:10:00+01:00",
+  "text": "Una filosofa propone un tetto alla ricchezza: 10 milioni. Io chiedo solo l'1-3% sopra i 5,4. Sono un moderato. #tassareimilionari #tasse #limitarianismo @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d07_lap_limitarianismo.png",
+    "altText": "Card: c'è chi trova estremista una patrimoniale dall'1 al 3% sopra i 5,4 milioni. Intanto c'è chi propone un tetto alla ricchezza."
+   }
+  ]
+ },
+ {
+  "key": "dic-zugo-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-10T08:45:00+01:00",
+  "text": "La Svizzera è spesso citata come modello di efficienza fiscale. È anche un laboratorio di concorrenza fiscale interna. Secondo i calcoli di Enrico Rubolino (Università di Losanna), un contribuente con un reddito lordo di 500 mila franchi paga un'aliquota del 31% a Zurigo e del 18% a Zugo; con 100 mila franchi, il 12,6% contro il 5,7%. Un'eredità da un milione destinata a una persona esterna alla famiglia sconta il 31% a Zurigo e nulla a Zugo.\n\nNon sorprende che Zugo abbia attratto residenti facoltosi: tra loro, a suo tempo, Sergio Marchionne.\n\nLa lezione vale anche per l'Europa: quando ogni giurisdizione decide da sola, la base imponibile più mobile si sposta. È la ragione per cui la proposta Zucman punta su uno standard minimo coordinato a livello internazionale.\n\n#tassareimilionari #fisco #svizzera @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d08_post_zugo.png",
+    "altText": "Stessa Svizzera, altro conto: con 500 mila franchi di reddito, 31% di aliquota a Zurigo e 18% a Zugo."
+   }
+  ]
+ },
+ {
+  "key": "dic-zugo-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-10T13:10:00+01:00",
+  "text": "Stesso Paese, pochi chilometri di distanza. Con un reddito di 500 mila franchi a Zurigo paghi il 31%, a Zugo il 18%. Con 100 mila, il 12,6% contro il 5,7. E se erediti un milione da qualcuno che non è un familiare: 31% a Zurigo, zero a Zugo (calcoli di Enrico Rubolino, Università di Losanna).\n\nIndovinate dove aveva la residenza fiscale Sergio Marchionne.\n\nÈ la concorrenza fiscale: un gioco in cui i ricchi scelgono il tavolo. Per questo una tassa minima sui super ricchi va decisa insieme, non cantone per cantone.\n\n#tassareimilionari #svizzera #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d08_post_zugo.png",
+    "altText": "Stessa Svizzera, altro conto: con 500 mila franchi di reddito, 31% di aliquota a Zurigo e 18% a Zugo."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-zugo-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-10T19:10:00+01:00",
+  "text": "Zurigo 31%, Zugo 18%. Stessa Svizzera. Marchionne viveva (fiscalmente) a Zugo. #tassareimilionari #tasse #svizzera @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d08_post_zugo.png",
+    "altText": "Stessa Svizzera, altro conto: con 500 mila franchi di reddito, 31% di aliquota a Zurigo e 18% a Zugo."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-trump-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-11T08:45:00+01:00",
+  "text": "Il racconto dell'imprenditore che si è fatto da solo è uno degli argomenti più efficaci contro la tassazione dei grandi patrimoni. È anche, nella maggior parte dei casi, inesatto.\n\nAlex Cobham, alla guida del Tax Justice Network, osserva che riguarda meno di un grande patrimonio su dieci. Il caso più noto è quello di Donald Trump, che secondo un'inchiesta del New Yorker ricevette dal padre circa mezzo miliardo di dollari e che entro il 2015 lo aveva sostanzialmente dilapidato.\n\nIn Italia eredità e donazioni sono passate dall'8% a quasi il 15% del reddito nazionale annuo dagli anni Novanta: la ricchezza conta sempre di più, e si eredita sempre di più. Tassare i grandi patrimoni e le grandi eredità significa, prima di tutto, rimettere al centro il merito.\n\n#tassareimilionari #merito #eredità @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d09_lap_trump.png",
+    "altText": "Card: Donald Trump ha ricevuto dal padre circa mezzo miliardo di dollari ed entro il 2015 l'aveva sostanzialmente dilapidato."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-trump-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-11T13:10:00+01:00",
+  "text": "Donald Trump, l'uomo che si è fatto da sé. Con circa mezzo miliardo di dollari ricevuti dal padre che, secondo un'inchiesta del New Yorker, entro il 2015 aveva sostanzialmente dilapidato.\n\nIl mito del self-made man resiste anche se riguarda meno di un Paperone su dieci, dice Alex Cobham del Tax Justice Network. Gli altri hanno avuto, come minimo, una bella spinta di partenza.\n\nUn motivo in più per tassare le grandi eredità: non premiano il merito, premiano il cognome.\n\n#tassareimilionari #trump #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d09_lap_trump.png",
+    "altText": "Card: Donald Trump ha ricevuto dal padre circa mezzo miliardo di dollari ed entro il 2015 l'aveva sostanzialmente dilapidato."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-trump-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-11T19:10:00+01:00",
+  "text": "Trump, self-made man: mezzo miliardo ereditato dal padre, quasi tutto dilapidato entro il 2015. #tassareimilionari #tasse #trump @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d09_lap_trump.png",
+    "altText": "Card: Donald Trump ha ricevuto dal padre circa mezzo miliardo di dollari ed entro il 2015 l'aveva sostanzialmente dilapidato."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-chigi-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-14T08:45:00+01:00",
+  "text": "Due notizie dello stesso periodo. La prima: secondo l'Ocse (Employment Outlook 2025), i salari reali italiani erano ancora inferiori del 7,5% rispetto a quattro anni prima, il risultato peggiore tra i Paesi dell'organizzazione. La seconda: i funzionari della Presidenza del Consiglio, che percepiscono già circa il doppio della media dei dipendenti ministeriali, hanno ottenuto un aumento di 168 euro mensili. Nel frattempo una sentenza della Consulta ha fatto cadere il tetto di 240 mila euro per le retribuzioni pubbliche più elevate.\n\nNon si tratta di contestare i singoli aumenti, ma l'ordine delle priorità. Circa un quarto dei dipendenti privati guadagna meno dell'importo massimo dell'abolito reddito di cittadinanza.\n\nLa Costituzione parla di retribuzione sufficiente (art. 36) e di progressività (art. 53). Le scelte di bilancio dovrebbero partire da lì.\n\n#tassareimilionari #salari #lavoro @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d10_lap_palazzo_chigi.png",
+    "altText": "Card: i funzionari di Palazzo Chigi guadagnano già il doppio di un ministeriale medio e avranno 168 euro in più al mese."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-chigi-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-14T13:10:00+01:00",
+  "text": "Notizia passata quasi inosservata: i funzionari della Presidenza del Consiglio, che già guadagnano circa il doppio di un ministeriale medio, avranno un aumento di 168 euro al mese. Nel frattempo, con una sentenza della Consulta, è saltato anche il tetto di 240 mila euro per gli stipendi pubblici più alti.\n\nNel Paese in cui, secondo l'Ocse, i salari reali sono ancora sotto del 7,5% rispetto a quattro anni prima (peggior risultato tra i Paesi avanzati) e un dipendente privato su quattro guadagna meno di quanto dava al massimo il reddito di cittadinanza.\n\nI soldi, quando si vuole, si trovano.\n\n#tassareimilionari #salari #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d10_lap_palazzo_chigi.png",
+    "altText": "Card: i funzionari di Palazzo Chigi guadagnano già il doppio di un ministeriale medio e avranno 168 euro in più al mese."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-chigi-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-14T19:10:00+01:00",
+  "text": "Funzionari di Palazzo Chigi: +168 euro al mese. Guadagnano già il doppio dei colleghi. Priorità. #tassareimilionari #tasse #salari @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d10_lap_palazzo_chigi.png",
+    "altText": "Card: i funzionari di Palazzo Chigi guadagnano già il doppio di un ministeriale medio e avranno 168 euro in più al mese."
+   }
+  ]
+ },
+ {
+  "key": "dic-quiz-detto-2-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-15T08:45:00+01:00",
+  "text": "Un piccolo esercizio su chi ha detto cosa, a proposito di tasse.\n\n«Affinché i contribuenti siano onesti, fa d'uopo anzitutto sia onesto lo Stato» è di Luigi Einaudi, economista liberale e presidente della Repubblica dal 1948 al 1955. Si trova in un saggio intitolato L'imposta patrimoniale.\n\n«Alla fine finiscono i soldi degli altri, e allora vengono a prendere te» è un post di Elon Musk dell'ottobre 2021, scritto mentre negli Stati Uniti si discuteva di un'imposta sui miliardari. Nel 2018 Musk aveva versato poco più di 8.000 dollari di imposte sul reddito.\n\nLa tassazione dei patrimoni ha una lunga tradizione liberale, in Italia e in Europa. Ricordarlo aiuta a discuterne nel merito.\n\n#tassareimilionari #fisco #einaudi @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_1.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_2.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_3.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_4.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_5.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_6.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-quiz-detto-2-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-15T13:10:00+01:00",
+  "text": "Quiz del martedì, seconda puntata. Due frasi sulle tasse: una scritta da un padre della Repubblica, l'altra postata da un miliardario. Indovina chi ha detto cosa, niente Google.\n\nScrivi nei commenti il tuo punteggio, 0, 1 o 2, prima di guardare le risposte. E se fai 2 su 2, sfida qualcuno che pensa che la patrimoniale sia roba da bolscevichi.\n\n#tassareimilionari #quiz #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_1.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_2.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_3.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_4.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_5.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_6.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 6 di 6."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-quiz-detto-2-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-15T19:10:00+01:00",
+  "text": "Chi ha scritto «affinché i contribuenti siano onesti, fa d'uopo anzitutto sia onesto lo Stato»? Rispondi, poi scorri. #tassareimilionari #tasse #quiz @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_1.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_2.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_3.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_4.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_5.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d11_quiz_chi_lha_detto_2_6.png",
+    "altText": "Quiz: chi l'ha detto? Seconda parte. Due frasi sulle tasse. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-shafir-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-16T08:45:00+01:00",
+  "text": "Un argomento poco frequentato nel dibattito sulla tassazione dei grandi patrimoni riguarda l'interesse degli stessi contribuenti più ricchi. Eldar Shafir, psicologo a Princeton e coautore con Sendhil Mullainathan di «Scarcity», lo pone così: anche i ricchi agiscono spesso contro il proprio interesse. Un contributo fiscale un po' più alto si tradurrebbe in una vita più sicura dal punto di vista della criminalità, in spazi pubblici più puliti, in servizi migliori.\n\nLa qualità dei beni pubblici non è un costo che grava solo su chi paga di più: è l'ambiente in cui tutti vivono, lavorano e investono.\n\nÈ una prospettiva utile per uscire dalla contrapposizione tra «chi paga» e «chi riceve».\n\n#tassareimilionari #benipubblici #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d12_lap_shafir.png",
+    "altText": "Card: anche i ricchi votano contro il proprio interesse. Pagando un po' più di tasse vivrebbero in città più sicure e più pulite (Eldar Shafir)."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-shafir-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-16T13:10:00+01:00",
+  "text": "Ci chiediamo spesso perché tanti lavoratori votino per chi abbassa le tasse ai ricchi. Lo psicologo Eldar Shafir, coautore di «Scarcity», ribalta la domanda: anche i ricchi agiscono contro il proprio interesse. Con un po' più di tasse avrebbero strade più sicure e città più pulite.\n\nLa patrimoniale, insomma, conviene anche a chi la paga. Solo che non lo sa ancora.\n\n#tassareimilionari #shafir #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d12_lap_shafir.png",
+    "altText": "Card: anche i ricchi votano contro il proprio interesse. Pagando un po' più di tasse vivrebbero in città più sicure e più pulite (Eldar Shafir)."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-shafir-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-16T19:10:00+01:00",
+  "text": "Anche i ricchi votano contro il proprio interesse: con più tasse vivrebbero in città più sicure e pulite. #tassareimilionari #tasse #ricchi @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d12_lap_shafir.png",
+    "altText": "Card: anche i ricchi votano contro il proprio interesse. Pagando un po' più di tasse vivrebbero in città più sicure e più pulite (Eldar Shafir)."
+   }
+  ]
+ },
+ {
+  "key": "dic-under16-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-17T08:45:00+01:00",
+  "text": "Secondo l'Istat, nel 2024 il 27% dei minori di 16 anni in Italia era a rischio di povertà o di esclusione sociale; nel Mezzogiorno e nelle isole la quota è quasi doppia.\n\nÈ un dato che riguarda il presente, ma soprattutto il futuro: istruzione, salute, capacità di lavoro e di innovazione del Paese tra dieci o vent'anni. E alimenta un'emigrazione giovanile che già oggi impoverisce intere regioni.\n\nGli interventi sono noti: servizi per l'infanzia, tempo pieno, mense scolastiche, diritto allo studio. Richiedono risorse stabili. Un'imposta dall'1 al 3% sui patrimoni oltre i 5,4 milioni ne garantirebbe circa 13 miliardi l'anno.\n\n#tassareimilionari #povertà #infanzia @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d13_post_under16.png",
+    "altText": "Istat 2024: il 27% degli under 16 è a rischio povertà o esclusione sociale. Al Sud e nelle isole la quota quasi raddoppia."
+   }
+  ]
+ },
+ {
+  "key": "dic-under16-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-17T13:10:00+01:00",
+  "text": "Il 27% degli under 16, più di uno su quattro, nel 2024 era a rischio di povertà o di esclusione sociale. Al Sud e nelle isole la quota quasi raddoppia (Istat).\n\nSono i ragazzi a cui fra dieci anni chiederemo di restare, di fare figli, di pagare le pensioni. Molti, prevedibilmente, se ne andranno.\n\nCon 13 miliardi l'anno da una patrimoniale sullo 0,1% più ricco si fanno asili, tempo pieno, mense, borse di studio. Basta decidere chi è il futuro del Paese.\n\n#tassareimilionari #povertà #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d13_post_under16.png",
+    "altText": "Istat 2024: il 27% degli under 16 è a rischio povertà o esclusione sociale. Al Sud e nelle isole la quota quasi raddoppia."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-under16-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-17T19:10:00+01:00",
+  "text": "Un under 16 su quattro a rischio povertà in Italia. Al Sud quasi il doppio. #tassareimilionari #tasse #povertà @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d13_post_under16.png",
+    "altText": "Istat 2024: il 27% degli under 16 è a rischio povertà o esclusione sociale. Al Sud e nelle isole la quota quasi raddoppia."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-ottanta-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-18T08:45:00+01:00",
+  "text": "In Italia lavoratori dipendenti e pensionati versano oltre l'80% del gettito Irpef. È un dato noto agli addetti ai lavori, molto meno al grande pubblico, e spiega bene la struttura del nostro sistema fiscale: il reddito da lavoro, trattenuto alla fonte, è la base più solida; le rendite finanziarie e immobiliari, da cui provengono soprattutto le grandi fortune, godono di regimi separati e più leggeri.\n\nNello stesso periodo i salari reali italiani sono diminuiti, unico caso in Europa secondo l'Ocse, mentre la quota di ricchezza dello 0,1% più ricco è quasi raddoppiata tra il 1995 e il 2016.\n\nRiequilibrare il carico non significa punire il successo. Significa smettere di chiedere tutto agli stessi.\n\n#tassareimilionari #lavoro #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d14_lap_ottanta.png",
+    "altText": "Card: lavoratori dipendenti e pensionati versano oltre l'80% dell'Irpef."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-ottanta-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-18T13:10:00+01:00",
+  "text": "Oltre l'80% dell'Irpef lo pagano lavoratori dipendenti e pensionati. È con i loro soldi, trattenuti alla fonte senza possibilità di trucchi, che si pagano il pronto soccorso, la maestra di vostro figlio, il regionale delle 7:12.\n\nNel frattempo i loro salari reali sono scesi, unici in Europa, mentre i grandi patrimoni crescevano. Una patrimoniale dall'1 al 3% oltre i 5,4 milioni è un modo per dare il cambio a chi tira la carretta. Non vi sembra ora?\n\n#tassareimilionari #lavoro #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d14_lap_ottanta.png",
+    "altText": "Card: lavoratori dipendenti e pensionati versano oltre l'80% dell'Irpef."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-ottanta-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-18T19:10:00+01:00",
+  "text": "Dipendenti e pensionati pagano oltre l'80% dell'Irpef. E se toccasse un po' anche ai milionari? #tassareimilionari #tasse #lavoro @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d14_lap_ottanta.png",
+    "altText": "Card: lavoratori dipendenti e pensionati versano oltre l'80% dell'Irpef."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-sperate-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-21T08:45:00+01:00",
+  "text": "Tra le ragioni che spiegano l'opposizione diffusa alla tassazione dei grandi patrimoni, Alex Cobham (Tax Justice Network) ne indica una psicologica: molti contribuenti non ricchi si oppongono perché sperano di diventarlo un giorno.\n\nÈ utile allora ricordare di chi parliamo. La proposta di Oxfam Italia prevede un'imposta progressiva dall'1 al 3% oltre una soglia di circa 5,4 milioni di euro di patrimonio netto. Riguarderebbe lo 0,1% della popolazione, circa 50 mila persone, con un gettito stimato di circa 13 miliardi l'anno.\n\nIl ceto medio, comprese le famiglie che possiedono la propria casa e qualche risparmio, ne resterebbe del tutto fuori. Chiarirlo è il primo passo per discuterne seriamente.\n\n#tassareimilionari #patrimoniale #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d15_lap_sperate.png",
+    "altText": "Card: molti si oppongono alla patrimoniale perché sperano di diventare milionari. Scatterebbe sopra i 5,4 milioni."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-sperate-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-21T13:10:00+01:00",
+  "text": "Alex Cobham, del Tax Justice Network, ha individuato uno dei motivi per cui tanti non ricchi difendono i ricchi: sperano di diventarlo.\n\nNiente paura. La patrimoniale proposta da Oxfam Italia scatterebbe sopra i 5,4 milioni di patrimonio. Riguarderebbe lo 0,1% degli italiani, circa 50 mila persone. Se un giorno ci entrerete, sarà perché ce l'avete fatta. E pagare un po' di più sarà il modo migliore per festeggiare.\n\n#tassareimilionari #patrimoniale #milionari @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d15_lap_sperate.png",
+    "altText": "Card: molti si oppongono alla patrimoniale perché sperano di diventare milionari. Scatterebbe sopra i 5,4 milioni."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-sperate-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-21T19:10:00+01:00",
+  "text": "Hai paura della patrimoniale perché un giorno sarai milionario? Scatta sopra i 5,4 milioni. Se ci arrivi, offri tu. #tassareimilionari #tasse #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d15_lap_sperate.png",
+    "altText": "Card: molti si oppongono alla patrimoniale perché sperano di diventare milionari. Scatterebbe sopra i 5,4 milioni."
+   }
+  ]
+ },
+ {
+  "key": "dic-monopoly-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-22T08:45:00+01:00",
+  "text": "Una breve storia politica della patrimoniale in Italia, adatta alle feste.\n\nDicembre 1998: uno spot del Monopoly trasmesso su Rai1 fa il verso a Bertinotti, Berlusconi e D'Alema che discutono della «tassa patrimoniale», all'epoca presente solo sul tabellone. 2006: Rifondazione chiede di più ai grandi patrimoni con il manifesto «Anche i ricchi piangano»; la reazione è durissima, anche a sinistra. Estate 2011: con lo spread ai massimi si dichiarano favorevoli, tra gli altri, Amato, Veltroni, Fini, Casini, Calderoli, Confalonieri e Briatore; il governo Monti rinuncia per timore di una fuga di capitali. Agosto 2023: un ordine del giorno per una patrimoniale sui redditi oltre i 500 mila euro viene sottoscritto dal governo per errore.\n\nTrent'anni di dibattito senza una decisione. Nel frattempo Svizzera, Norvegia e Spagna un'imposta sui grandi patrimoni l'hanno mantenuta, senza esodi. Forse è il momento di uscire dal tabellone.\n\n#tassareimilionari #politica #fisco @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_1.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_2.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_3.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_4.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_5.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_6.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-monopoly-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-22T13:10:00+01:00",
+  "text": "Dicembre 1998, prima serata di Rai1. Uno spot del Monopoly mette in scena tre bambini che fanno il verso a Bertinotti, Berlusconi e D'Alema, litigando sulla casella «Tassa patrimoniale». Era l'unico posto d'Italia in cui esistesse.\n\nDa allora la parola con la p è tornata ciclicamente: lo yacht di Rifondazione, la fiammata del 2011 con perfino Briatore a favore, l'ordine del giorno approvato per errore nel 2023. E non se n'è mai fatto niente.\n\nQuest'anno sotto l'albero mettiamoci un gioco nuovo. Gira il post a chi a Natale gioca a Monopoli.\n\n#tassareimilionari #monopoly #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_1.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_2.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_3.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_4.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_5.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_6.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 6 di 6."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-monopoly-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-22T19:10:00+01:00",
+  "text": "L'unico posto in Italia con la patrimoniale? Il tabellone del Monopoly. Trent'anni di storia in sei slide. #tassareimilionari #tasse #monopoly @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_1.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_2.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 2 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_3.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 3 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_4.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 4 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_5.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 5 di 6."
+   },
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d16_car_monopoly_6.png",
+    "altText": "L'unico posto in Italia con la patrimoniale? Il Monopoly. Trent'anni di storia della parola con la p. Slide 6 di 6."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-babbo-li",
+  "channelId": "678e5ba1a31978b79c17b7af",
+  "service": "linkedin",
+  "dueAt": "2026-12-23T08:45:00+01:00",
+  "text": "Un augurio di fine anno, con un dato.\n\nSecondo uno studio della Scuola Sant'Anna e dell'Università Bicocca, lo 0,1% più ricco dei contribuenti italiani ha una pressione fiscale complessiva intorno al 36%, contro il 46% del ceto medio benestante. Al vertice della distribuzione il nostro sistema smette di essere progressivo, in contrasto con l'articolo 53 della Costituzione.\n\nNon servono rivoluzioni per correggerlo. Un'imposta dall'1 al 3% sui patrimoni oltre i 5,4 milioni, come proposto da Oxfam Italia, riguarderebbe circa 50 mila persone e porterebbe circa 13 miliardi l'anno per sanità, scuola e salari pubblici.\n\nL'augurio che faccio per il 2027 è che se ne discuta finalmente nel merito. Buone feste.\n\n#tassareimilionari #fisco #buonefeste @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d17_lap_babbo_natale.png",
+    "altText": "Card: Caro Babbo Natale, vorrei che lo 0,1% più ricco pagasse le tasse almeno come un infermiere."
+   }
+  ]
+ },
+ {
+  "key": "dic-lap-babbo-ig",
+  "channelId": "67b9d5de3b85969eaf257498",
+  "service": "instagram",
+  "dueAt": "2026-12-23T13:10:00+01:00",
+  "text": "Lettera a Babbo Natale, edizione fiscale. Oggi lo 0,1% più ricco degli italiani ha una pressione fiscale complessiva intorno al 36%, contro il 46% del ceto medio (studio Sant'Anna–Bicocca). Infermieri e insegnanti compresi.\n\nQuindi no, non chiedo un trenino. Chiedo che finiscano i regali fiscali a chi ha già tutto: dividendi via holding intorno all'1%, eredità quasi esentasse, forfait da 200 mila euro per i milionari stranieri.\n\nBuone feste. A tutti, anche a loro.\n\n#tassareimilionari #natale #patrimoniale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d17_lap_babbo_natale.png",
+    "altText": "Card: Caro Babbo Natale, vorrei che lo 0,1% più ricco pagasse le tasse almeno come un infermiere."
+   }
+  ],
+  "instagramType": "post"
+ },
+ {
+  "key": "dic-lap-babbo-tt",
+  "channelId": "6adf14242f1f5ed648d660dd",
+  "service": "tiktok",
+  "dueAt": "2026-12-23T19:10:00+01:00",
+  "text": "Caro Babbo Natale, vorrei che i milionari pagassero le tasse almeno come un infermiere. Tutto qui. #tassareimilionari #tasse #natale @einaudieditore",
+  "images": [
+   {
+    "url": "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/dicembre/d17_lap_babbo_natale.png",
+    "altText": "Card: Caro Babbo Natale, vorrei che lo 0,1% più ricco pagasse le tasse almeno come un infermiere."
    }
   ]
  }

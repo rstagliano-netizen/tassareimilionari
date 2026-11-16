@@ -8,7 +8,13 @@ ROOT = Path(__file__).resolve().parents[2]
 RAW = "https://raw.githubusercontent.com/rstagliano-netizen/tassareimilionari/main/novembre/"
 CH = {"li": ("678e5ba1a31978b79c17b7af", "linkedin", "08:45"),
       "ig": ("67b9d5de3b85969eaf257498", "instagram", "13:10"),
-      "tt": ("679ca1a0a31978b79c5df442", "tiktok", "19:10")}
+      "tt": ("6adf14242f1f5ed648d660dd", "tiktok", "19:10")}
+
+FOTO = {
+ "n10_lap_zucman": ("n10_lap_zucman_foto.png", "Su una foto di superyacht ormeggiati, una card: i circa 3.000 miliardari del pianeta pagano in tasse lo 0,3% della loro ricchezza. La proposta di Zucman: almeno il 2%."),
+ "n11_post_panda": ("n11_lap_panda_foto.png", "Su una foto di una Fiat Panda in strada, una card: nel 2010 a un prof servivano 5,4 stipendi per comprare una Panda, oggi quasi 9."),
+ "n12_lap_segreto_bancario": ("n12_lap_segreto_bancario_foto.png", "Su una foto di Paradeplatz a Zurigo, una card: vent'anni fa il segreto bancario svizzero sembrava eterno. È caduto nel 2015."),
+}
 
 # data, chiave breve, nome grafica, alt della prima immagine, caption {ig, tt, li}
 POST = [
@@ -99,6 +105,8 @@ def main():
         imgs = []
         for i, f in enumerate(files):
             imgs.append({"url": RAW + f, "altText": alt if i == 0 else f"{alt} Slide {i + 1} di {n}."})
+        if nome in FOTO:  # dal 14/11 questi escono nella versione con foto di sfondo
+            imgs = [{"url": RAW + "foto/" + FOTO[nome][0], "altText": FOTO[nome][1]}]
         for ch in ("li", "ig", "tt"):
             cid, svc, ora = CH[ch]
             t = cap[ch]
